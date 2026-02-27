@@ -21,14 +21,3 @@ Portefólio pessoal com projetos do curso profissional de GPSI e do curso superi
 │       ├── ATT&CK Wargaming
 │       └── EyeWeb Reborn (Projeto Final)
 ```
-
-## Deploy no GitHub Pages
-
-1. Cria repositório: `teu-username.github.io`
-2. `git init && git add . && git commit -m "Portfolio" && git push`
-3. Settings → Pages → Branch: main
-4. Site: `https://teu-username.github.io`
-
-## Personalizar
-
-No `index.html`, substitui: `SEU-USERNAME`, `SEU-EMAIL`, `SEU-LINKEDIN`
